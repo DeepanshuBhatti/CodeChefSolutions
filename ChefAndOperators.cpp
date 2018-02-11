@@ -13,7 +13,7 @@ First line contains an integer T, which denotes the number of testcases. Each of
 Output
 For each line of input produce one line of output. This line contains any one of the relational operators
 
-'≺' , '≻' , '='.
+'<' , '>' , '='.
 Constraints
 
 1 ≤ T ≤ 10000
@@ -27,8 +27,8 @@ Input:
 10 10
 
 Output:
-≺
-≻
+<
+>
 =
 
 Explanation
